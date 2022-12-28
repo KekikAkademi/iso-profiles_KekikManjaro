@@ -268,3 +268,44 @@ xdg-utils
 ## Misc
 manjaro-hotfixes
 >basic squashfs-tools
+
+
+## Kekik
+yay
+pacui
+libxcrypt-compat
+webkit2gtk
+xdg-desktop-portal
+telegram-desktop
+optimus-manager
+gnome-disk-utility
+python-pip
+python-pipreqs
+python-flask
+python-numpy
+python-pandas
+scrapy
+opencv
+brave-browser
+thefuck
+micro
+screenfetch
+neofetch
+xorg-xinput
+remmina
+libvncserver
+freerdp
+filezilla
+simplescreenrecorder
+tmux
+android-tools
+rust
+npm
+ruby
+jdk-openjdk
+kvantum
+chromium
+smplayer
+jq
+ffmpeg
+sweeper
